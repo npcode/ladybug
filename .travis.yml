@@ -33,7 +33,7 @@ deploy:
   user: kim.jongha@gmail.com
   password:
     secure: lY4rKy/x7HYj9td6cKvi93Anmjszl70Rk1pJfK7K/zcNkOF5diwfTZ8LrGc+XvaE/QsgkCVSCvfgdIRDltxpQKBfZnQ6SJhK87OZk9ofIAiC8xl36JbJN/w0R81sFEkIMSRnGN9CW7KZe598QgNits2GBUF04qx4McfOcm4RwAIjUmgWlFGT3KUTUjIefzCP0QOpa2VwtpB34xksEYNE8aJfa153hYexpKjTCPKeZlcy87jsQQHActsLhuYLEnNOjx5uk0Aee2yi2tKzrsle312RVGKBiN92BLgTsBm/Cg8EenLR6c5tLZSi1/B4DcsY5BY6r2qu+/q8MfOL19zoMBGPndp68Cb0opYe3RlHP3Atv0EaOrH2/o/CT+hVk+pQDSnNoArkbdwspjtfwjOmKG/VOFbICzLHiT4BDeizeyF9THDGJgKMbKILZGruc99L01hl4lSKX7tdtyUuVXa74RSu8SOlJqU1iZoVuWXstKzkB8B2ilBke+cyetsS3s25TEbIWP3xyhzXVvEOfPIgPaSvxanq+o6bmvgGSgyD3am6MAOFBjM0k9cYlszAXTQ3LiAJ/U9I1F6/BrxrYYBZJZSCyJAMpypra45sEc1WX8DBTNeF1IdWIGjflb8mFnZ0mKSTU585hiMxapC4okhrAAfXpQ54z7mcEMVYUNLKp9k=
-  app: wisedog-ladybugdev
+  app: wisedog
   domain: ladybugdev
   on:
     repo: wisedog/ladybug
